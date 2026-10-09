@@ -1,8 +1,8 @@
 {
-  "Title-ID": "000400000C739900",
+  "Title-ID": "000400000B2EAC00",
   "Product-Code": "CTR-P-3CIA",
-  "Banner": "banner.png",
+  "Banner": "halonobg.png",
   "Input": "Halo3DS.3dsx",
   "Output": "Halo3DS.cia",
-  "Bnr_audio": "audio.wav"
+  "Bnr_audio": "wortwort.wav"
 }
