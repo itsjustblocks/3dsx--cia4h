@@ -2,7 +2,7 @@
   "Title-ID": "000400000C739900",
   "Product-Code": "CTR-P-3CIA",
   "Banner": "banner.png",
-  "Input": "input.3dsx",
-  "Output": "output.cia",
+  "Input": "Halo3DS.3dsx",
+  "Output": "Halo3DS.cia",
   "Bnr_audio": "audio.wav"
 }
